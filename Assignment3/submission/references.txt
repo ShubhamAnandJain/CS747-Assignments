@@ -1,0 +1,17 @@
+How to add bool arguments in argparse
+
+1) https://stackoverflow.com/a/58452581
+
+Numpy references
+
+1) https://docs.scipy.org/doc//numpy-1.10.4/reference/generated/numpy.random.choice.html
+
+2) https://docs.scipy.org/doc/numpy-1.14.0/reference/generated/numpy.random.binomial.html
+
+Deleting files in python
+
+1) https://www.w3schools.com/python/python_file_remove.asp
+
+OS calls from python (writing the wrapper script)
+
+1) https://www.geeksforgeeks.org/python-os-system-method/

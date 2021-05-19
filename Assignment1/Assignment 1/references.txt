@@ -1,0 +1,57 @@
+Using Python parse:
+
+1. https://realpython.com/command-line-interfaces-python-argparse/
+2. https://docs.python.org/3/library/argparse.html
+
+Reading a file in python:
+
+1. https://stackoverflow.com/questions/14676265/how-to-read-a-text-file-into-a-list-or-an-array-with-python
+2. https://stackoverflow.com/questions/6583573/how-to-read-numbers-from-file-in-python
+
+Numpy random:
+
+1. https://stackoverflow.com/questions/9534552/seeding-and-reusing-python-random-seeds
+2. https://numpy.org/doc/stable/reference/random/generated/numpy.random.binomial.html
+3. https://numpy.org/doc/stable/reference/random/generated/numpy.random.randint.html
+
+Index of max in a list:
+
+1. https://stackoverflow.com/questions/3989016/how-to-find-all-positions-of-the-maximum-value-in-a-list
+
+Numpy log:
+
+1. https://numpy.org/doc/stable/reference/generated/numpy.log.html
+
+Numpy beta distribution:
+
+1. https://numpy.org/doc/stable/reference/random/generated/numpy.random.beta.html
+
+executing programs with python:
+
+1. https://www.geeksforgeeks.org/python-os-system-method/
+
+Sorting a list:
+
+1. https://www.w3schools.com/python/ref_list_sort.asp
+
+Plotting in matlab:
+
+1. https://matplotlib.org/tutorials/introductory/pyplot.html
+2. https://stackoverflow.com/questions/773814/plot-logarithmic-axes-with-matplotlib-in-python
+3. 
+
+Splitting a string:
+
+1. https://www.w3schools.com/python/ref_string_split.asp
+
+Finding last element in a list:
+
+1. https://stackoverflow.com/questions/522372/finding-first-and-last-index-of-some-value-in-a-list-in-python
+
+Numpy Choice function:
+
+1. https://numpy.org/doc/stable/reference/random/generated/numpy.random.choice.html
+
+How to divide each element in a list:
+
+1. https://stackoverflow.com/questions/8244915/how-do-you-divide-each-element-in-a-list-by-an-int/8247234

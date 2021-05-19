@@ -1,0 +1,2 @@
+../instances/i-1.txt, thompson-sampling, 38, 0, 100000, 106.0
+../instances/i-1.txt, thompson-sampling, 38, 0, 100000, 106.0
